@@ -3,8 +3,8 @@
 @section('title', 'Page')
 
 @section('content')
-    <div>
-        <table>
+    <div class="container">
+        <table class="table">
             <tr>
                 <th>Title</th>
                 <td>{{ $post->title }}</td>

@@ -4,7 +4,7 @@
     <title>@yield('title')</title>
     <style>
     table, tr, td, th {
-        border: 1px solid black;
+        /* border: 1px solid black; */
         word-wrap: break-word;
     }
 
